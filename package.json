@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-assignment-1",
+  "version": "1.0.0",
+  "description": "Nodejs assignment 1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarishChoure/nodejs-assignment01.git"
+  },
+  "author": "Harish Choure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarishChoure/nodejs-assignment01/issues"
+  },
+  "homepage": "https://github.com/HarishChoure/nodejs-assignment01#readme"
+}
